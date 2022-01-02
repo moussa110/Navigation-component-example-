@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Navigation Component</string>
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="cars">Cars</string>
+    <string name="click_on_car_to_navigate">click on car to navigate</string>
 </resources>
